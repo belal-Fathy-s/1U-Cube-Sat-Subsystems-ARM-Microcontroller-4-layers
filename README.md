@@ -24,23 +24,23 @@ The hardware section contains the PCB designs for each of the five subsystems. T
 
 1. **Electrical Power System (EPS)**
     - **Description**: Manages the power distribution and energy storage for the CubeSat.
-    - **PCB Design**: [EPS PCB Design](1U_Cube-Sat_PCB_Designs/EPS_ARM)
+    - **PCB Design**: [EPS PCB Design](1U-Cube-Sat-PCB-Designs/EPS-ARM)
 
 2. **Communication Subsystem (COMM)**
     - **Description**: Handles the transmission and reception of data between the CubeSat and ground stations.
-    - **PCB Design**: [COMM PCB Design](1U Cube-Sat PCB Designs/COMM_ARM)
+    - **PCB Design**: [COMM PCB Design](1U-Cube-Sat-PCB-Designs/COMM-ARM)
 
 3. **Attitude Determination and Control Subsystem (ADCS)**
     - **Description**: Maintains the orientation and stability of the CubeSat in orbit.
-    - **PCB Design**: [ADCS PCB Design](1U_Cube-Sat_PCB_Designs/ADCS_ARM)
+    - **PCB Design**: [ADCS PCB Design](1U-Cube-Sat-PCB-Designs/ADCS-ARM)
 
 4. **Payload Subsystem (PLD)**
     - **Description**: Contains the scientific instruments and sensors for the mission-specific objectives.
-    - **PCB Design**: [PLD PCB Design](1U_Cube-Sat_PCB_Designs/PAYLOAD_Subsystem)
+    - **PCB Design**: [PLD PCB Design](1U-Cube-Sat-PCB-Designs/PAYLOAD-Subsystem)
 
 5. **On-Board Computer Subsystem (OBC)**
     - **Description**: The central processing unit that coordinates the operations of all subsystems.
-    - **PCB Design**: [OBC PCB Design](1U_Cube-Sat_PCB_Designs/OBC_ARM)
+    - **PCB Design**: [OBC PCB Design](1U-Cube-Sat-PCB-Designs/OBC-ARM)
 
 ## Software
 
