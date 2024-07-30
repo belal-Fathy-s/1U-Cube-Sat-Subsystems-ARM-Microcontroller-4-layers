@@ -24,23 +24,23 @@ The hardware section contains the PCB designs for each of the five subsystems. T
 
 1. **Electrical Power System (EPS)**
     - **Description**: Manages the power distribution and energy storage for the CubeSat.
-    - **PCB Design**: [EPS PCB Design](path/to/EPS_PCB_Design)
+    - **PCB Design**: [EPS PCB Design](path/to/EPS_ARM)
 
 2. **Communication Subsystem (COMM)**
     - **Description**: Handles the transmission and reception of data between the CubeSat and ground stations.
-    - **PCB Design**: [COMM PCB Design](path/to/COMM_PCB_Design)
+    - **PCB Design**: [COMM PCB Design](path/to/COMM_ARM)
 
 3. **Attitude Determination and Control Subsystem (ADCS)**
     - **Description**: Maintains the orientation and stability of the CubeSat in orbit.
-    - **PCB Design**: [ADCS PCB Design](path/to/ADCS_PCB_Design)
+    - **PCB Design**: [ADCS PCB Design](path/to/ADCS_ARM)
 
 4. **Payload Subsystem (PLD)**
     - **Description**: Contains the scientific instruments and sensors for the mission-specific objectives.
-    - **PCB Design**: [PLD PCB Design](path/to/PLD_PCB_Design)
+    - **PCB Design**: [PLD PCB Design](path/to/PAYLOAD_Subsystem)
 
 5. **On-Board Computer Subsystem (OBC)**
     - **Description**: The central processing unit that coordinates the operations of all subsystems.
-    - **PCB Design**: [OBC PCB Design](path/to/OBC_PCB_Design)
+    - **PCB Design**: [OBC PCB Design](path/to/OBC_ARM)
 
 ## Software
 
@@ -69,20 +69,20 @@ To view and understand this project, follow these steps:
 
 1. **Clone the Repository**:
     ```sh
-    git clone https://github.com/yourusername/CubeSat-Subsystems-ARM.git
-    cd CubeSat-Subsystems-ARM
+    git clone https://github.com/1U-Cube-Sat-Subsystems-ARM-Microcontroller-4-layers.git
+    cd 1U-Cube-Sat-Subsystems-ARM-Microcontroller-4-layers
     ```
 
 2. **Review the PCB Designs**:
-    - The PCB design files are located in the `hardware` directory.
+    - The PCB design files are located in the `1U Cube-Sat PCB Designs` directory.
 
 3. **Review the Software**:
-    - The software files are located in the `software` directory.
+    - The software files are located in the `1U Cube-Sat Software` directory.
 
 ## Contact
 
 For any questions or inquiries, please contact:
 
-- **Name**: [Your Name]
-- **Email**: [your.email@example.com]
-- **GitHub**: [Your GitHub Profile](https://github.com/yourusername)
+- **Name**: Eng \ Belal Fathy Sayed
+- **Email**: belalfathy1999@gmail.com
+- **GitHub**: https://github.com/belal-Fathy-s
