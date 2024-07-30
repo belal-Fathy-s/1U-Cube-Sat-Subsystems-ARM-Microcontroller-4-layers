@@ -28,19 +28,19 @@ The hardware section contains the PCB designs for each of the five subsystems. T
 
 2. **Communication Subsystem (COMM)**
     - **Description**: Handles the transmission and reception of data between the CubeSat and ground stations.
-    - **PCB Design**: [COMM PCB Design](1U-Cube-Sat-PCB-Designs/COMM-ARM)
+    - **PCB Design**: [COMM PCB Design](1U%20Cube-Sat%20PCB%20Designs/COMM%20ARM)
 
 3. **Attitude Determination and Control Subsystem (ADCS)**
     - **Description**: Maintains the orientation and stability of the CubeSat in orbit.
-    - **PCB Design**: [ADCS PCB Design](1U-Cube-Sat-PCB-Designs/ADCS-ARM)
+    - **PCB Design**: [ADCS PCB Design](1U%20Cube-Sat%20PCB%20Designs/ADCS%20ARM)
 
 4. **Payload Subsystem (PLD)**
     - **Description**: Contains the scientific instruments and sensors for the mission-specific objectives.
-    - **PCB Design**: [PLD PCB Design](1U-Cube-Sat-PCB-Designs/PAYLOAD-Subsystem)
+    - **PCB Design**: [PLD PCB Design](1U%20Cube-Sat%20PCB%20Designs/PAYLOAD%20Subsystem)
 
 5. **On-Board Computer Subsystem (OBC)**
     - **Description**: The central processing unit that coordinates the operations of all subsystems.
-    - **PCB Design**: [OBC PCB Design](1U-Cube-Sat-PCB-Designs/OBC-ARM)
+    - **PCB Design**: [OBC PCB Design](1U%20Cube-Sat%20PCB%20Designs/OBC%20ARM)
 
 ## Software
 
@@ -49,19 +49,19 @@ The hardware section contains the PCB designs for each of the five subsystems. T
 Each subsystem has dedicated software to manage its operations. The software is written primarily in C/C++ for ARM microcontrollers, ensuring efficient and real-time performance. CubeMX was used to auto-generate much of the functionality, facilitating the development process.
 
 1. **Electrical Power System (EPS)**
-    - **Software**: [EPS Software](path/to/EPS_Software)
+    - **Software**: [EPS Software](1U%20Cube-Sat%20Software/EPS_Software)
 
 2. **Communication Subsystem (COMM)**
-    - **Software**: [COMM Software](path/to/COMM_Software)
+    - **Software**: [COMM Software](1U%20Cube-Sat%20Software/COMM_Software)
 
 3. **Attitude Determination and Control Subsystem (ADCS)**
-    - **Software**: [ADCS Software](path/to/ADCS_Software)
+    - **Software**: [ADCS Software](1U%20Cube-Sat%20Software/ADCS_Software)
 
 4. **Payload Subsystem (PLD)**
-    - **Software**: [PLD Software](path/to/PLD_Software)
+    - **Software**: [PLD Software](1U%20Cube-Sat%20Software/PLD_Software)
 
 5. **On-Board Computer Subsystem (OBC)**
-    - **Software**: [OBC Software](path/to/OBC_Software)
+    - **Software**: [OBC Software](1U%20Cube-Sat%20Software/OBC_Software)
 
 ## Getting Started
 
