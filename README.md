@@ -24,7 +24,7 @@ The hardware section contains the PCB designs for each of the five subsystems. T
 
 1. **Electrical Power System (EPS)**
     - **Description**: Manages the power distribution and energy storage for the CubeSat.
-    - **PCB Design**: [EPS PCB Design](1U Cube-Sat PCB Designs/EPS ARM)
+    - **PCB Design**: [EPS PCB Design](#1U Cube-Sat PCB Designs/EPS ARM)
 
 2. **Communication Subsystem (COMM)**
     - **Description**: Handles the transmission and reception of data between the CubeSat and ground stations.
